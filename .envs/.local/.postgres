@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=wagers
+POSTGRES_USER=YHQnxVPrSmezozlRXHTJhJwoaWVtMGnf
+POSTGRES_PASSWORD=I6jJRc5SQzqetSvD2bO2Sg1W0pjjALtyJKaK2n7kWQl3GoLH965nywO7cb74hLjL
